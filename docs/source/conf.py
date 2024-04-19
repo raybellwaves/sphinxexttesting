@@ -37,6 +37,7 @@ release = "0.1"
 extensions = [
     "todo",
     "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",
 ]
 
 todo_include_todos = True
