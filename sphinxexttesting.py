@@ -11,6 +11,7 @@ def get_random_ingredients(kind: list[str] = None) -> list[str]:
     -------
     The ingredients list: list[str]
 
+
     .. todo:: This is in the docstring
     """
     return ["shells", "gorgonzola", "parsley"]
